@@ -1,0 +1,8 @@
+<code_scheme name="Default">
+  <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+    <value>
+      <package name="java.awt" withSubpackages="true" static="false" />
+      <package name="javax.swing" withSubpackages="true" static="false" />
+    </value>
+  </option>
+</code_scheme>
