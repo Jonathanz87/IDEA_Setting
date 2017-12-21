@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="org.hibernate.criterion.Projections.property(propertyName)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>

@@ -1,8 +1,0 @@
-<code_scheme name="Default">
-  <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
-  <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <codeStyleSettings language="JAVA">
-    <option name="WRAP_LONG_LINES" value="true" />
-  </codeStyleSettings>
-</code_scheme>
