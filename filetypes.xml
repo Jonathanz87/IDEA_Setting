@@ -4,6 +4,7 @@
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
+      <mapping ext="property" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
