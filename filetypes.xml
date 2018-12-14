@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
