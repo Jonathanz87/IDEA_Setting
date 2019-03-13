@@ -16,6 +16,7 @@
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
