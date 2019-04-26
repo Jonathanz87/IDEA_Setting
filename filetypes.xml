@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
@@ -15,6 +14,7 @@
       <mapping pattern=".part-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
+      <mapping ext="propertites" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="TypeScript" />
     </extensionMap>
