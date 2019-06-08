@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>78</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Tester (1)'</Description>
-          <Count>3</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tester (2)'">
@@ -222,7 +222,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Tester.main()'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Application'">
@@ -239,6 +239,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Beekeeper'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Tester (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Tester (1)'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
