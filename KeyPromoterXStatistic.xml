@@ -86,7 +86,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'⇧⌘K'</ShortCut>
           <Description>Push...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -214,7 +214,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Tester'</Description>
-          <Count>27</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Tester.main()'">
