@@ -70,7 +70,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>116</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -167,6 +167,22 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'ConfiguratorApplication'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'FockJoinTest.main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'FockJoinTest.main()'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ForkJoinPoolAc....main()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ForkJoinPoolAc....main()'</Description>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main (1)'">
