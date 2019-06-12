@@ -182,7 +182,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'ForkJoinPoolAc....main()'</Description>
-          <Count>16</Count>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ForkJoinPoolAction'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'ForkJoinPoolAction'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main (1)'">
@@ -263,6 +271,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Beekeeper'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ForkJoinPoolAction'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ForkJoinPoolAction'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tester (1)'">
